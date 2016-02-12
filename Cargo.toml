@@ -1,0 +1,11 @@
+[package]
+name = "frc-dashboard"
+version = "0.1.0"
+authors = ["Benjamin Lee <benjamin.fik.lee@gmail.com>"]
+
+[dependencies]
+mio = "*"
+byteorder = "*"
+
+[dependencies.sixense]
+path = "../sixense-rs"
