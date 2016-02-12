@@ -8,4 +8,4 @@ mio = "*"
 byteorder = "*"
 
 [dependencies.sixense]
-path = "../sixense-rs"
+git = "https://github.com/FRC3636/sixense-rs.git"
